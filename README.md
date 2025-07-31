@@ -784,7 +784,9 @@ services:
 
 ### Lênh lưu ý
 ```bash
-cat ./docker            # xem thư mục
+cat ./Dockerfile            # xem thư mục
+mkdir test              # Tạo thư mục test
+nano Dockerfile            # Chỉnh sửa
 ```
 
 ## Tài liệu tham khảo
