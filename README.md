@@ -782,6 +782,11 @@ services:
 
 ---
 
+### Lênh lưu ý
+```bash
+cat ./docker            # xem thư mục
+```
+
 ## Tài liệu tham khảo
 
 - [Docker Official Documentation](https://docs.docker.com/)
