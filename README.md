@@ -787,7 +787,15 @@ services:
 cat ./Dockerfile            # xem thư mục
 mkdir test              # Tạo thư mục test
 nano Dockerfile            # Chỉnh sửa
+cd ../
+cd ./<fileName>
+docker ps              # Xem tiến trình (container)
+docker images          # Xem mẫu (image)
 ```
+> [!NOTE]
+> `Dockerfile`: là bảng dựng sẵn để chạy `IMAGE`
+> `Image`: là mẫu để chạy `CONTAINER`
+> `Container`: là 1 tiến trình để chạy
 
 ## Tài liệu tham khảo
 
