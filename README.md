@@ -793,9 +793,9 @@ docker ps              # Xem tiến trình (container)
 docker images          # Xem mẫu (image)
 ```
 > [!NOTE]
-> `Dockerfile`: là bảng dựng sẵn để chạy `IMAGE`
-> `Image`: là mẫu để chạy `CONTAINER`
-> `Container`: là 1 tiến trình để chạy
+> - `Dockerfile`: là bảng dựng sẵn để chạy `IMAGE`
+> - `Image`: là mẫu để chạy `CONTAINER`
+> - `Container`: là 1 tiến trình để chạy
 
 ## Tài liệu tham khảo
 
