@@ -796,7 +796,9 @@ docker images          # Xem mẫu (image)
 docker build -t IMAGE-NAME
 docker run -d --name -p 3000:3000 IAMGE-NAME # -d: chay nền
 docker login
+docker info
 docker push IMAGE
+docker pull YOUR NAME DOCKER /IMAGE
 ```
 > [!NOTE]
 > - `Dockerfile`: là bảng dựng sẵn để chạy `IMAGE`
