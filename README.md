@@ -786,6 +786,8 @@ services:
 ```bash
 cat ./Dockerfile            # xem thư mục
 mkdir test              # Tạo thư mục test
+rmdir test                 # xóa thư mục
+nano file                 # chỉnh sủa file
 nano Dockerfile            # Chỉnh sửa
 cd ../
 cd ./<fileName>
