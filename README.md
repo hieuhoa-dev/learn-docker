@@ -793,6 +793,10 @@ cd ../
 cd ./<fileName>
 docker ps              # Xem tiến trình (container)
 docker images          # Xem mẫu (image)
+docker build -t IMAGE-NAME
+docker run -d --name -p 3000:3000 IAMGE-NAME # -d: chay nền
+docker login
+docker push IMAGE
 ```
 > [!NOTE]
 > - `Dockerfile`: là bảng dựng sẵn để chạy `IMAGE`
